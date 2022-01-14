@@ -116,7 +116,7 @@
     </footer>
   </div>
 
-  <script src="/scripts/recipes.js"></script>
+  <script src="../scripts/recipes.js"></script>
 </body>
 
 </html>
