@@ -91,7 +91,7 @@
       <section class="section section-grey">
         <div class="container">
           <div class="menu-item menu-item-recipes">
-            <a href="./pages/recipes.php">Przepisy na dania Wigilijne</a>
+            <a href="./pages/recipes.php">Organizujemy również cateringi okolicznościowe. Sprawdź!</a>
           </div>
         </div>
       </section>
